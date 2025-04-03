@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center"> ComfortAid APP Project </h1>
+<h1 align="center"> Elysium APP Project </h1>
 
 ![Powered by Bootstrap](https://img.shields.io/badge/Powered_by-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Powered by Axios](https://img.shields.io/badge/Powered_by-Axios-671ddf?style=for-the-badge)
@@ -16,13 +16,13 @@
 
 ## Descrição do Projeto
 
-> A aplicação pode ser acessada pela [Web page](https://junhaumhayden.github.io/ComfortAid_APP_Project/)
+> A aplicação pode ser acessada pela [Web page](https://junhaumhayden.github.io/Elysium_APP_Project/)
 
 > Um pequeno um vídeo de demonstração do aplicativo pode ser visualizado no [youtube](https://youtu.be/bbU-9l1c2Ss)
 
 ### 📌 Sobre o Projeto
 
-ComfortAid é uma aplicação desenvolvida para conectar clientes a profissionais que oferecem serviços de massagem terapêutica e estética domiciliar. O aplicativo permite que os usuários busquem serviços por região, agendem atendimentos e avaliem os profissionais cadastrados. Além disso, possibilita que profissionais da área divulguem seus serviços, incluindo especialistas em conhecimentos tradicionais, como parteiras e curandeiras.
+Elysium é uma aplicação desenvolvida para conectar clientes a profissionais que oferecem serviços de massagem terapêutica e estética domiciliar. O aplicativo permite que os usuários busquem serviços por região, agendem atendimentos e avaliem os profissionais cadastrados. Além disso, possibilita que profissionais da área divulguem seus serviços, incluindo especialistas em conhecimentos tradicionais, como parteiras e curandeiras.
 
 ### 🔍 Comportamento Esperado
 
@@ -86,7 +86,7 @@ graph TD;
 ```
 /confortaid_project
 ├── index.html              # Página principal
-├── comfortaid_user_env.html # Página de login/cadastro
+├── Elysium_user_env.html # Página de login/cadastro
 ├── /assets                 # Recursos do projeto
 │   ├── /css                # Estilos CSS
 │   ├── /html               # Páginas secundárias
@@ -101,7 +101,7 @@ graph TD;
 
 - **index.html**: Página principal da aplicação, redireciona usuários não autenticados para login.
 
-- **comfortaid_user_env.html**: Interface para login e cadastro de usuários.
+- **Elysium_user_env.html**: Interface para login e cadastro de usuários.
 
 - **/assets/css**: Contém os estilos da aplicação.
 
