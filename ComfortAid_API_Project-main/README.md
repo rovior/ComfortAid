@@ -27,7 +27,7 @@
 
 ### Comportamento Esperado do Projeto
 
-O projeto ComfortAid é uma aplicação de agendamento de serviços que permite a interação entre clientes e profissionais. Abaixo estão os comportamentos esperados do sistema:
+O projeto Elysium é uma aplicação de agendamento de serviços que permite a interação entre clientes e profissionais. Abaixo estão os comportamentos esperados do sistema:
 
 1. **Cadastro de Usuários**:
     - Clientes e profissionais podem se cadastrar fornecendo informações pessoais e de contato.
@@ -67,7 +67,7 @@ Esses comportamentos garantem que o sistema funcione de maneira eficiente e aten
 ### Diagrama de Casos de Uso
 
 ```mermaid
-%% Diagrama de Casos de Uso para o projeto ComfortAid
+%% Diagrama de Casos de Uso para o projeto Elysium
 %% Representa as interações entre os atores e os casos de uso do sistema
 
 %% Definição dos atores
